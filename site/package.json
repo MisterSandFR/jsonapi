@@ -13,7 +13,7 @@
   "dependencies": {
     "wintersmith-coffee": "~0.2.1",
     "wintersmith-stylus": "~0.4.0",
-    "wintersmith": "~2.0.10",
+    "wintersmith": "~2.4.0",
     "coffee-script": "~1.7.1",
     "request": "~2.37.0"
   }
